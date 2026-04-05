@@ -3,7 +3,7 @@
 **Course:** CS-4063 Natural Language Processing — FAST NUCES  
 **Student:** i23-2568 | Section B  
 **Framework:** PyTorch (from scratch) — No HuggingFace, No Gensim  
-**Due Date:** 8 April 2026
+
 
 ---
 
