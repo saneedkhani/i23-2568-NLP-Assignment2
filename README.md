@@ -30,7 +30,7 @@ i23-2568-NLP-Assignment2/ <br>
 ├── pos_test.conll <br>
 ├── ner_train.conll <br>
 └── ner_test.conll  <br>
-    <br>
+    
 ---
 
 ## ⚙️ Setup & Reproduction
