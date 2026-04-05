@@ -10,27 +10,27 @@
 ## 📁 Repository Structure
 i23-2568-NLP-Assignment2/<br>
 ├── i23-2568_Assignment2_DS-B.ipynb   ← Main Kaggle notebook (all cells executed) <br>
-├── report.pdf                         ← Final report (2-3 pages)
-├── README.md
-├── .gitignore
+├── report.pdf                         ← Final report (2-3 pages)<br>
+├── README.md<br>
+├── .gitignore<br>
+│<br>
+├── embeddings/<br>
+│   ├── tfidf_matrix.npy<br>
+│   ├── ppmi_matrix.npy<br>
+│   ├── embeddings_w2v.npy<br>
+│   └── word2idx.json<br>
 │
-├── embeddings/
-│   ├── tfidf_matrix.npy
-│   ├── ppmi_matrix.npy
-│   ├── embeddings_w2v.npy
-│   └── word2idx.json
-│
-├── models/
-│   ├── bilstm_pos.pt
-│   ├── bilstm_ner.pt
-│   └── transformer_cls.pt
-│
-└── data/
-├── pos_train.conll
-├── pos_test.conll
-├── ner_train.conll
-└── ner_test.conll
-
+├── models/<br>
+│   ├── bilstm_pos.pt<br>
+│   ├── bilstm_ner.pt<br>
+│   └── transformer_cls.pt<br>
+│<br>
+└── data/<br>
+├── pos_train.conll<br>
+├── pos_test.conll<br>
+├── ner_train.conll<br>
+└── ner_test.conll<br>
+<br>
 ---
 
 ## ⚙️ Setup & Reproduction
@@ -60,18 +60,18 @@ Run all cells top to bottom.
 
 ## 📦 Parts Overview
 
-| Part | Topic | Marks |
-|------|-------|-------|
-| Part 1 | Word Embeddings (TF-IDF, PPMI, Skip-gram Word2Vec) | 25 |
-| Part 2 | BiLSTM Sequence Labeling (POS + NER) | 25 |
-| Part 3 | Transformer Encoder (Topic Classification) | 20 |
-| GitHub | Version Control | 5 |
-| **Total** | | **75** |
+| Part | Topic | 
+|------|-------|
+| Part 1 | Word Embeddings (TF-IDF, PPMI, Skip-gram Word2Vec) | 
+| Part 2 | BiLSTM Sequence Labeling (POS + NER) | 
+| Part 3 | Transformer Encoder (Topic Classification) |
+| GitHub | Version Control |
+
 
 ---
 
 ## 🔗 Kaggle Notebook
-> Link: *(add after publishing)*
+> Link: *(add after publishing](https://www.kaggle.com/code/saneedullah/nlp-assigment)*
 
 ---
 
