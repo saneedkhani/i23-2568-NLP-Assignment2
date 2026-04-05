@@ -13,7 +13,7 @@ i23-2568-NLP-Assignment2/ <br>
 ├── report.pdf                         ← Final report (2-3 pages) <br>
 ├── README.md <br>
 ├── .gitignore <br>
-│ <br>
+ │ <br>
 ├── embeddings/ <br>
 │   ├── tfidf_matrix.npy <br>
 │   ├── ppmi_matrix.npy <br>
@@ -25,7 +25,7 @@ i23-2568-NLP-Assignment2/ <br>
 │   ├── bilstm_ner.pt<br>
 │   └── transformer_cls.pt<br>
 │ <br>
-└── data/ <br>
+|── data/ <br>
 ├── pos_train.conll <br>
 ├── pos_test.conll <br>
 ├── ner_train.conll <br>
