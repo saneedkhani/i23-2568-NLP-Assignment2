@@ -8,8 +8,8 @@
 ---
 
 ## 📁 Repository Structure
-i23-2568-NLP-Assignment2/
-├── i23-2568_Assignment2_DS-B.ipynb   ← Main Kaggle notebook (all cells executed)
+i23-2568-NLP-Assignment2/<br>
+├── i23-2568_Assignment2_DS-B.ipynb   ← Main Kaggle notebook (all cells executed) <br>
 ├── report.pdf                         ← Final report (2-3 pages)
 ├── README.md
 ├── .gitignore
